@@ -294,6 +294,7 @@ void createCubicEqn (double m, double n, double o, double p)
  *     This function is to find the root of the cubic equation               *
  *                using the fixed-point iteration approach                   *
  *****************************************************************************/
+
 void fixedPointCube(double f, double g , double h, double j)
 {
     unsigned int Nit;

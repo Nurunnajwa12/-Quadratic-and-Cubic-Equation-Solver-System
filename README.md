@@ -74,5 +74,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at nurunnaja21@gmail.com
+If you have any feedback, please reach out to us at nurunnajwa21@gmail.com
 
